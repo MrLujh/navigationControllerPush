@@ -1,0 +1,1 @@
+../../../GuidePageManager/GuidePageManager/GuidePageManager.h

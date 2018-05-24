@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  navigationControllerPush
+//
+//  Created by lujh on 2017/7/11.
+//  Copyright © 2017年 lujh. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "AppStyle.h"
+#import <UINavigationController+FDFullscreenPopGesture.h>
+#import "UIImage+Extension.h"
+#import "UIView+Frame.h"
+#import "NavigationViewController.h"
+#import "UITabBar+TBBadge.h"
+#import "TabBarViewController.h"
+
+#endif /* PrefixHeader_pch */
