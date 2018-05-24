@@ -1,0 +1,20 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - GuidePageManager (0.0.2)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture
+  - GuidePageManager
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FDFullscreenPopGesture
+    - GuidePageManager
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  GuidePageManager: 2961147447f4204628b04101d0f7c2ca1ac88552
+
+PODFILE CHECKSUM: 0cde50175f4720790ac1e911ed4d249a19f3a48b
+
+COCOAPODS: 1.5.0
